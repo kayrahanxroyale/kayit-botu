@@ -1,0 +1,13 @@
+{
+    "token":"Buraya Botunuzun Tokeni Girilicek",
+    "prefix":"Botun Prefixi",
+    "kurallarid":"Kurallar Kanalı ID",
+    "seskanal":"Botun Seste Duracağı Kanal ID",
+    "kayıtsız":"Kayıtsız Rolu ID ",
+    "yetkili":"Kayıt Edicek Olan Yetkili Rol ID ",
+    "tag":"Sunucu Tagı",
+    "welcomechat":"Register Kanal ID ",
+    "man":["Erkek 1 Rol ID","Erkek 2 Rol ID","Erkek 3 Rol ID"],
+    "woman":["Kadın 1 Rol ID","Kadın 2 Rol ID","Kadın 3 Rol ID"]
+
+}
