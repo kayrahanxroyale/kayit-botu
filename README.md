@@ -1,0 +1,2 @@
+# kayit-botu
+kayıt botu
